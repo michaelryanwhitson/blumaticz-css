@@ -1,4 +1,4 @@
-# Principles of writing consistent, idiomatic CSS
+# Principles of writing consistent, idiomatic CSS to keep all BLUELEADZ Themes Consistently Designed and Easily Scalable.
 
 The following document outlines a reasonable style guide for CSS development.
 These guidelines strongly encourage the use of existing, common, sensible
